@@ -1,7 +1,7 @@
 # bitcoin
 
 1. **기간 : 2021.07 ~ 08** 
-
+@HyunJiLee34
 2. **기술스택**
     1. 개발환경 : python.   
     2. 전처리 : pandas, numpy. 
